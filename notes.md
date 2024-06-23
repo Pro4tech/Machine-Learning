@@ -2,33 +2,34 @@
 ## Installation Steps
 1. To Install Python3
    ``
-  sudo apt-get install python3
+sudo apt-get install python3
   ``
 2. To Install PIP3
    ``
-  sudo apt install python3-pip
+ sudo apt install python3-pip
    ``
 3. To Install iPython from PIP3
    ``
-  pip3 install ipython
+ pip3 install ipython
    ``
 5. To Install ipykernel from PIP3
    ``
-  python -m pip install ipykernel
+ python -m pip install ipykernel
    ``
 6. To Install ipykernel from PIP2 (Default)
    ``
-  python3 -m pip3 install ipykernel
+ python3 -m pip3 install ipykernel
    ``
 7. To Install matplotlib from PIP3
    ``
-  pip3 install matplotlib
+ pip3 install matplotlib
    ``
 8. To Install opencv from PIP3
-   ``
-  pip3 install opencv-python
-   ``
+  ``
+ pip3 install opencv-python
+  ``
 
+# Python Fundamentals
 1. install py3:sudo apt-get install python3
 2. #-Used for line comment
 3. """----""":-Used for multi-line comment
