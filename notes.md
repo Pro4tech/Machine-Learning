@@ -1,4 +1,4 @@
-#Codes:
+# Codes:
 sudo apt-get install python3
 pip3 install ipython
 sudo apt install python3-pip
@@ -31,7 +31,7 @@ pip3 install opencv-python
 17.To counter Exceptions Python used Try-Except Blocks
 18.__new__ :is the actual function for a Constructor
 
-#Machine Learning:"Neural Networks in M.L"-By Vibhav
+# Machine Learning:"Neural Networks in M.L"-By Vibhav
 1.Tensorflow is majorly  used due to high compatibility of systems
 2.Depends mainly on ANN(Neural Networks) Methods.single Neural network is called preceptron
 3.In Neural Networks in graphical form :Y=mx+c is written as Y=W.X+B,Where W is
@@ -47,7 +47,7 @@ pip3 install opencv-python
 7.Optimizer:They are the algo(Mathematical formulae) used to
   determine the Learning Rate of the ML problem.
 
-#Machine Learning:Programming for M.L"
+# Machine Learning:Programming for M.L"
 1.The syntax/Language used in ML now is Keras(Tensorflow sub-set)
 2.Higher no of neurons or the layer results in higher time required
 3.keras.io/datasets:Data-sets for ML.If need to refer them for Understanding
@@ -73,7 +73,7 @@ pip3 install opencv-python
   a)print(x_train.shape[1:])
   b)printf(x_train[n].shape)
 
-#Image Recognization System Using ML
+# Image Recognization System Using ML
 1.For higher resolution images,we deploy convolution logic which converts the Data into
    smaller patches of data which may be easier and faster for its Data Processing.
    Which works on a logic of creating a relation with the larger Data(Inputed Data) and the Training Data
